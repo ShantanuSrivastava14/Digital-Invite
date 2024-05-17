@@ -53,4 +53,13 @@ The invitation page is deployed at: [Deployed URL]
 Clone this repository using the following command:
 
 ```bash
-git clone https://github.com/ShantanuSrivastava14/Recipe-Page.git
+git clone https://github.com/ShantanuSrivastava14/Digital-Invite.git
+```
+## Contact
+- **Email:** [work.shasri@gmail.com](mailto:work.shasri@gmail.com)
+- **Phone:** [+917985691707](tel:+917985691707)
+- **LinkedIn:** [Shantanu Srivastava](https://www.linkedin.com/in/shantanu-srivastava-4740a5190/)
+- **GitHub:** [ShantanuSrivastava14](https://github.com/ShantanuSrivastava14)
+- **Twitter (X):** [@TechVrittikar](https://twitter.com/TechVrittikar)
+
+Thank you for visiting my Digital Invite project. Your support and feedback are much appreciated!
