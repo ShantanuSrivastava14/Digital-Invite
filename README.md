@@ -46,7 +46,7 @@ Creating this digital invitation page helped in understanding the following:
 
 ## Deployment
 
-The invitation page is deployed at: [Deployed URL]
+The invitation page is deployed at: [[Digital Invite](https://seminar-digital-invite.onrender.com/)]
 
 ## Repository
 
